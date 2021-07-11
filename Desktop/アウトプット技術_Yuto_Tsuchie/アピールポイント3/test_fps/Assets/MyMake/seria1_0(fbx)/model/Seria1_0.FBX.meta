@@ -1,0 +1,1536 @@
+fileFormatVersion: 2
+guid: c2d706ac751ba8049b4f2f07e96967eb
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bip01 HeadNub
+  - first:
+      1: 100002
+    second: Bip01 L Toe0Nub
+  - first:
+      1: 100004
+    second: Bip01 R Toe0Nub
+  - first:
+      1: 100006
+    second: Bone  L UpperArm
+  - first:
+      1: 100008
+    second: Bone Chest
+  - first:
+      1: 100010
+    second: Bone Head
+  - first:
+      1: 100012
+    second: Bone L Foot
+  - first:
+      1: 100014
+    second: Bone L Hand
+  - first:
+      1: 100016
+    second: Bone L Lower Leg
+  - first:
+      1: 100018
+    second: Bone L Lowerarm
+  - first:
+      1: 100020
+    second: Bone L Shoulder
+  - first:
+      1: 100022
+    second: Bone L Toe
+  - first:
+      1: 100024
+    second: Bone L Upper Leg
+  - first:
+      1: 100026
+    second: Bone Neck
+  - first:
+      1: 100028
+    second: Bone R Foot
+  - first:
+      1: 100030
+    second: Bone R Hand
+  - first:
+      1: 100032
+    second: Bone R Lower Leg
+  - first:
+      1: 100034
+    second: Bone R Lowerarm
+  - first:
+      1: 100036
+    second: Bone R Shoulder
+  - first:
+      1: 100038
+    second: Bone R Toe
+  - first:
+      1: 100040
+    second: Bone R Upper Leg
+  - first:
+      1: 100042
+    second: Bone R UpperArm
+  - first:
+      1: 100044
+    second: Bone Upper Chest
+  - first:
+      1: 100046
+    second: Bone__armor_B
+  - first:
+      1: 100048
+    second: Bone__armor_L
+  - first:
+      1: 100050
+    second: Bone__armor_R
+  - first:
+      1: 100052
+    second: Bone_hair_aho
+  - first:
+      1: 100054
+    second: Bone_hair_L
+  - first:
+      1: 100056
+    second: Bone_hair_R
+  - first:
+      1: 100058
+    second: Bone_hip
+  - first:
+      1: 100060
+    second: Bone_rocket_L
+  - first:
+      1: 100062
+    second: Bone_rocket_R
+  - first:
+      1: 100064
+    second: //RootNode
+  - first:
+      1: 100066
+    second: seria_belt
+  - first:
+      1: 100068
+    second: seria_Bone
+  - first:
+      1: 100070
+    second: seria_Bone L Finger0Nub
+  - first:
+      1: 100072
+    second: seria_Bone L Finger1Nub
+  - first:
+      1: 100074
+    second: seria_Bone L Finger2Nub
+  - first:
+      1: 100076
+    second: seria_Bone L Finger3Nub
+  - first:
+      1: 100078
+    second: seria_Bone L Finger4Nub
+  - first:
+      1: 100080
+    second: seria_Bone L Index1
+  - first:
+      1: 100082
+    second: seria_Bone L Index2
+  - first:
+      1: 100084
+    second: seria_Bone L Index3
+  - first:
+      1: 100086
+    second: seria_Bone L Little1
+  - first:
+      1: 100088
+    second: seria_Bone L Little2
+  - first:
+      1: 100090
+    second: seria_Bone L Little3
+  - first:
+      1: 100092
+    second: seria_Bone L Middle1
+  - first:
+      1: 100094
+    second: seria_Bone L Middle2
+  - first:
+      1: 100096
+    second: seria_Bone L Middle3
+  - first:
+      1: 100098
+    second: seria_Bone L Ring1
+  - first:
+      1: 100100
+    second: seria_Bone L Ring2
+  - first:
+      1: 100102
+    second: seria_Bone L Ring3
+  - first:
+      1: 100104
+    second: seria_Bone L Thumb1
+  - first:
+      1: 100106
+    second: seria_Bone L Thumb2
+  - first:
+      1: 100108
+    second: seria_Bone L Thumb3
+  - first:
+      1: 100110
+    second: seria_Bone R Finger0Nub
+  - first:
+      1: 100112
+    second: seria_Bone R Finger1Nub
+  - first:
+      1: 100114
+    second: seria_Bone R Finger2Nub
+  - first:
+      1: 100116
+    second: seria_Bone R Finger3Nub
+  - first:
+      1: 100118
+    second: seria_Bone R Finger4Nub
+  - first:
+      1: 100120
+    second: seria_Bone R Index1
+  - first:
+      1: 100122
+    second: seria_Bone R Index2
+  - first:
+      1: 100124
+    second: seria_Bone R Index3
+  - first:
+      1: 100126
+    second: seria_Bone R Little1
+  - first:
+      1: 100128
+    second: seria_Bone R Little2
+  - first:
+      1: 100130
+    second: seria_Bone R Little3
+  - first:
+      1: 100132
+    second: seria_Bone R Middle1
+  - first:
+      1: 100134
+    second: seria_Bone R Middle2
+  - first:
+      1: 100136
+    second: seria_Bone R Middle3
+  - first:
+      1: 100138
+    second: seria_Bone R Ring1
+  - first:
+      1: 100140
+    second: seria_Bone R Ring2
+  - first:
+      1: 100142
+    second: seria_Bone R Ring3
+  - first:
+      1: 100144
+    second: seria_Bone R Thumb1
+  - first:
+      1: 100146
+    second: seria_Bone R Thumb2
+  - first:
+      1: 100148
+    second: seria_Bone R Thumb3
+  - first:
+      1: 100150
+    second: seria_Bone Spine
+  - first:
+      1: 100152
+    second: seria_cloth
+  - first:
+      1: 100154
+    second: seria_face
+  - first:
+      1: 100156
+    second: seria_hair_back
+  - first:
+      1: 100158
+    second: seria_hair_front
+  - first:
+      1: 100160
+    second: seria_parts_armor
+  - first:
+      1: 100162
+    second: seria_parts_head
+  - first:
+      1: 100164
+    second: seria_Reference
+  - first:
+      1: 100166
+    second: seria_skin
+  - first:
+      4: 400000
+    second: Bip01 HeadNub
+  - first:
+      4: 400002
+    second: Bip01 L Toe0Nub
+  - first:
+      4: 400004
+    second: Bip01 R Toe0Nub
+  - first:
+      4: 400006
+    second: Bone  L UpperArm
+  - first:
+      4: 400008
+    second: Bone Chest
+  - first:
+      4: 400010
+    second: Bone Head
+  - first:
+      4: 400012
+    second: Bone L Foot
+  - first:
+      4: 400014
+    second: Bone L Hand
+  - first:
+      4: 400016
+    second: Bone L Lower Leg
+  - first:
+      4: 400018
+    second: Bone L Lowerarm
+  - first:
+      4: 400020
+    second: Bone L Shoulder
+  - first:
+      4: 400022
+    second: Bone L Toe
+  - first:
+      4: 400024
+    second: Bone L Upper Leg
+  - first:
+      4: 400026
+    second: Bone Neck
+  - first:
+      4: 400028
+    second: Bone R Foot
+  - first:
+      4: 400030
+    second: Bone R Hand
+  - first:
+      4: 400032
+    second: Bone R Lower Leg
+  - first:
+      4: 400034
+    second: Bone R Lowerarm
+  - first:
+      4: 400036
+    second: Bone R Shoulder
+  - first:
+      4: 400038
+    second: Bone R Toe
+  - first:
+      4: 400040
+    second: Bone R Upper Leg
+  - first:
+      4: 400042
+    second: Bone R UpperArm
+  - first:
+      4: 400044
+    second: Bone Upper Chest
+  - first:
+      4: 400046
+    second: Bone__armor_B
+  - first:
+      4: 400048
+    second: Bone__armor_L
+  - first:
+      4: 400050
+    second: Bone__armor_R
+  - first:
+      4: 400052
+    second: Bone_hair_aho
+  - first:
+      4: 400054
+    second: Bone_hair_L
+  - first:
+      4: 400056
+    second: Bone_hair_R
+  - first:
+      4: 400058
+    second: Bone_hip
+  - first:
+      4: 400060
+    second: Bone_rocket_L
+  - first:
+      4: 400062
+    second: Bone_rocket_R
+  - first:
+      4: 400064
+    second: //RootNode
+  - first:
+      4: 400066
+    second: seria_belt
+  - first:
+      4: 400068
+    second: seria_Bone
+  - first:
+      4: 400070
+    second: seria_Bone L Finger0Nub
+  - first:
+      4: 400072
+    second: seria_Bone L Finger1Nub
+  - first:
+      4: 400074
+    second: seria_Bone L Finger2Nub
+  - first:
+      4: 400076
+    second: seria_Bone L Finger3Nub
+  - first:
+      4: 400078
+    second: seria_Bone L Finger4Nub
+  - first:
+      4: 400080
+    second: seria_Bone L Index1
+  - first:
+      4: 400082
+    second: seria_Bone L Index2
+  - first:
+      4: 400084
+    second: seria_Bone L Index3
+  - first:
+      4: 400086
+    second: seria_Bone L Little1
+  - first:
+      4: 400088
+    second: seria_Bone L Little2
+  - first:
+      4: 400090
+    second: seria_Bone L Little3
+  - first:
+      4: 400092
+    second: seria_Bone L Middle1
+  - first:
+      4: 400094
+    second: seria_Bone L Middle2
+  - first:
+      4: 400096
+    second: seria_Bone L Middle3
+  - first:
+      4: 400098
+    second: seria_Bone L Ring1
+  - first:
+      4: 400100
+    second: seria_Bone L Ring2
+  - first:
+      4: 400102
+    second: seria_Bone L Ring3
+  - first:
+      4: 400104
+    second: seria_Bone L Thumb1
+  - first:
+      4: 400106
+    second: seria_Bone L Thumb2
+  - first:
+      4: 400108
+    second: seria_Bone L Thumb3
+  - first:
+      4: 400110
+    second: seria_Bone R Finger0Nub
+  - first:
+      4: 400112
+    second: seria_Bone R Finger1Nub
+  - first:
+      4: 400114
+    second: seria_Bone R Finger2Nub
+  - first:
+      4: 400116
+    second: seria_Bone R Finger3Nub
+  - first:
+      4: 400118
+    second: seria_Bone R Finger4Nub
+  - first:
+      4: 400120
+    second: seria_Bone R Index1
+  - first:
+      4: 400122
+    second: seria_Bone R Index2
+  - first:
+      4: 400124
+    second: seria_Bone R Index3
+  - first:
+      4: 400126
+    second: seria_Bone R Little1
+  - first:
+      4: 400128
+    second: seria_Bone R Little2
+  - first:
+      4: 400130
+    second: seria_Bone R Little3
+  - first:
+      4: 400132
+    second: seria_Bone R Middle1
+  - first:
+      4: 400134
+    second: seria_Bone R Middle2
+  - first:
+      4: 400136
+    second: seria_Bone R Middle3
+  - first:
+      4: 400138
+    second: seria_Bone R Ring1
+  - first:
+      4: 400140
+    second: seria_Bone R Ring2
+  - first:
+      4: 400142
+    second: seria_Bone R Ring3
+  - first:
+      4: 400144
+    second: seria_Bone R Thumb1
+  - first:
+      4: 400146
+    second: seria_Bone R Thumb2
+  - first:
+      4: 400148
+    second: seria_Bone R Thumb3
+  - first:
+      4: 400150
+    second: seria_Bone Spine
+  - first:
+      4: 400152
+    second: seria_cloth
+  - first:
+      4: 400154
+    second: seria_face
+  - first:
+      4: 400156
+    second: seria_hair_back
+  - first:
+      4: 400158
+    second: seria_hair_front
+  - first:
+      4: 400160
+    second: seria_parts_armor
+  - first:
+      4: 400162
+    second: seria_parts_head
+  - first:
+      4: 400164
+    second: seria_Reference
+  - first:
+      4: 400166
+    second: seria_skin
+  - first:
+      21: 2100000
+    second: seria_parts01
+  - first:
+      21: 2100002
+    second: seria_hair
+  - first:
+      21: 2100004
+    second: seria_face
+  - first:
+      21: 2100006
+    second: seria_face_parts
+  - first:
+      21: 2100008
+    second: seria_eye
+  - first:
+      21: 2100010
+    second: seria_skin
+  - first:
+      21: 2100012
+    second: seria_clothe
+  - first:
+      43: 4300000
+    second: seria_parts_armor
+  - first:
+      43: 4300002
+    second: seria_hair_front
+  - first:
+      43: 4300004
+    second: seria_face
+  - first:
+      43: 4300006
+    second: seria_parts_head
+  - first:
+      43: 4300008
+    second: seria_hair_back
+  - first:
+      43: 4300010
+    second: seria_skin
+  - first:
+      43: 4300012
+    second: seria_belt
+  - first:
+      43: 4300014
+    second: seria_cloth
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: seria_belt
+  - first:
+      137: 13700002
+    second: seria_cloth
+  - first:
+      137: 13700004
+    second: seria_face
+  - first:
+      137: 13700006
+    second: seria_hair_back
+  - first:
+      137: 13700008
+    second: seria_hair_front
+  - first:
+      137: 13700010
+    second: seria_parts_armor
+  - first:
+      137: 13700012
+    second: seria_parts_head
+  - first:
+      137: 13700014
+    second: seria_skin
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_clothe
+    second: {fileID: 2100000, guid: a30597e65bfa4f14d85bc2342e8806e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_eye
+    second: {fileID: 2100000, guid: 4de64e3811844a245b5f53982aedf047, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_face
+    second: {fileID: 2100000, guid: 4fafdc8f7c8b11a40bcd6e8f20069e9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_face_parts
+    second: {fileID: 2100000, guid: 5d2e4091035ea1a4380628e4cb3928b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_hair
+    second: {fileID: 2100000, guid: e499551a21cb8db4f9c67d5854b37f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_parts01
+    second: {fileID: 2100000, guid: 2b405ca3ad3076d42acd315105d6eb3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seria_skin
+    second: {fileID: 2100000, guid: 304599adb02d4d542b43eefb6023d917, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Bone_hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Upper Leg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Upper Leg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Lower Leg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Lower Leg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone Chest
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone Upper Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Shoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Shoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone  L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Lowerarm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Lowerarm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone L Toe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bone R Toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Thumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Thumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Thumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Index1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Index2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Index3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Middle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Middle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Middle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Ring1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Ring2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Ring3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Little1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Little2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone L Little3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Thumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Thumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Thumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Index1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Index2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Index3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Middle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Middle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Middle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Ring1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Ring2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Ring3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Little1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Little2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: seria_Bone R Little3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Seria1_0(vrm)(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_belt
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: -9.032557e-10, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_cloth
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: -0, y: -0.00000015258789, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_face
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: -1.6255505e-10, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_hair_back
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: 0.0000000015533881, y: 1.4373627, z: -0.087581664}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_hair_front
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: 2.3856436e-10, y: 1.4393675, z: 0.048085436}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_parts_armor
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: -0.000000011841805, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_parts_head
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: 4.5162735e-11, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Reference
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone
+      parentName: seria_Reference
+      position: {x: -0.000000022652657, y: 0.0039414666, z: 0.88875794}
+      rotation: {x: 0, y: 0, z: 0.7071063, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_hip
+      parentName: seria_Bone
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.5, y: 0.5, z: 0.4999993, w: 0.5000007}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone__armor_B
+      parentName: Bone_hip
+      position: {x: -0.07957741, y: -0.09005915, z: 0.00000045776366}
+      rotation: {x: 0.00000037462286, y: 0.0000012133196, z: 0.9713421, w: 0.23768596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone__armor_L
+      parentName: Bone_hip
+      position: {x: -0.07534767, y: -0.0027561372, z: 0.113496}
+      rotation: {x: -0.114566654, y: 0.6427229, z: 0.7284438, w: 0.20772928}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone__armor_R
+      parentName: Bone_hip
+      position: {x: -0.07534805, y: -0.002756763, z: -0.11349983}
+      rotation: {x: 0.114567086, y: -0.6427203, z: 0.72844565, w: 0.20773046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone Spine
+      parentName: Bone_hip
+      position: {x: -0.05629341, y: 0.008440049, z: 0.00000005611786}
+      rotation: {x: -0.000002080476, y: 0.000000693676, z: -0.000398159, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone Chest
+      parentName: seria_Bone Spine
+      position: {x: -0.1361132, y: -0.00007697552, z: -2.1349933e-10}
+      rotation: {x: 1.8845952e-15, y: -0.00000007225547, z: 0.026051149, w: 0.9996606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone Upper Chest
+      parentName: Bone Chest
+      position: {x: -0.0967971, y: -0.000088415145, z: -2.4523614e-10}
+      rotation: {x: -3.1877733e-15, y: -0.00000009608918, z: 0.03464421, w: 0.9993997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Shoulder
+      parentName: Bone Upper Chest
+      position: {x: -0.07346366, y: -0.013612813, z: 0.038699303}
+      rotation: {x: 0.7407591, y: -0.004201837, z: -0.6717373, w: 0.0052262573}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone  L UpperArm
+      parentName: Bone L Shoulder
+      position: {x: -0.07124912, y: -0.000000009536743, z: 0}
+      rotation: {x: 0.07487594, y: -0.052562363, z: -0.0149166705, w: 0.9956949}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Lowerarm
+      parentName: Bone  L UpperArm
+      position: {x: -0.20176677, y: 0, z: 0}
+      rotation: {x: -0.0000000028346554, y: 0.0000000013124583, z: 0.030027395, w: 0.9995491}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Hand
+      parentName: Bone L Lowerarm
+      position: {x: -0.1814688, y: 0, z: -0.000000076293944}
+      rotation: {x: -0.7314522, y: 0.005996208, z: -0.015189005, w: 0.6816972}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Index1
+      parentName: Bone L Hand
+      position: {x: -0.088688165, y: -0.0040787505, z: -0.015999574}
+      rotation: {x: -0.0030276172, y: -0.023784723, z: -0.008085209, w: 0.9996798}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Index2
+      parentName: seria_Bone L Index1
+      position: {x: -0.020991363, y: 0, z: -0.0000000023841857}
+      rotation: {x: 0.0000000037249974, y: 5.5026105e-11, z: 0.0069586467, w: 0.9999758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Index3
+      parentName: seria_Bone L Index2
+      position: {x: -0.020125885, y: 0, z: 0}
+      rotation: {x: -0.000000003774772, y: 0.0000000034980172, z: 0.014039216, w: 0.9999015}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Finger1Nub
+      parentName: seria_Bone L Index3
+      position: {x: -0.018778762, y: 0, z: 0}
+      rotation: {x: -0.0000000018626454, y: 0.0000000015133992, z: 2.8189259e-18,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Little1
+      parentName: Bone L Hand
+      position: {x: -0.08058666, y: -0.00703331, z: 0.028571028}
+      rotation: {x: -0.00062039477, y: 0.008669717, z: -0.025604205, w: 0.9996344}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Little2
+      parentName: seria_Bone L Little1
+      position: {x: -0.021483, y: -0.000000076293944, z: -0.0000000047683715}
+      rotation: {x: -0.000000001862453, y: 2.922665e-10, z: -0.0006593915, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Little3
+      parentName: seria_Bone L Little2
+      position: {x: -0.015973397, y: 0, z: 0}
+      rotation: {x: -1.3530709e-12, y: -1.7461776e-10, z: -0.0077485265, w: 0.99997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Finger4Nub
+      parentName: seria_Bone L Little3
+      position: {x: -0.017994309, y: 0, z: 0.0000000047683715}
+      rotation: {x: -1.6263033e-19, y: -1.7462298e-10, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Middle1
+      parentName: Bone L Hand
+      position: {x: -0.090796694, y: -0.007882156, z: -0.00045399426}
+      rotation: {x: -0.0003976523, y: -0.000017404553, z: -0.043821875, w: 0.99903935}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Middle2
+      parentName: seria_Bone L Middle1
+      position: {x: -0.024489975, y: 0, z: 0.0000000023841857}
+      rotation: {x: -0.0000000018591549, y: -2.2711774e-10, z: 0.016478477, w: 0.9998642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Middle3
+      parentName: seria_Bone L Middle2
+      position: {x: -0.019691123, y: 0, z: -0.0000000023841857}
+      rotation: {x: 0.000000003729308, y: -1.5577713e-10, z: 0.02067055, w: 0.9997864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Finger2Nub
+      parentName: seria_Bone L Middle3
+      position: {x: -0.022343367, y: 0, z: 0.0000000047683715}
+      rotation: {x: 0.0000000018626451, y: -1.7462298e-10, z: 0.0000000018626451,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Ring1
+      parentName: Bone L Hand
+      position: {x: -0.08775463, y: -0.008196945, z: 0.01422642}
+      rotation: {x: -0.00039798007, y: -0.000013982407, z: -0.035183262, w: 0.9993808}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Ring2
+      parentName: seria_Bone L Ring1
+      position: {x: -0.02308815, y: 0, z: -0.0000000023841857}
+      rotation: {x: -0.0000000037198038, y: 4.0351192e-10, z: -0.014576863, w: 0.9998938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Ring3
+      parentName: seria_Bone L Ring2
+      position: {x: -0.020991363, y: 0, z: 0.0000000023841857}
+      rotation: {x: 7.113673e-13, y: -5.8203314e-11, z: 0.012221197, w: 0.9999253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Finger3Nub
+      parentName: seria_Bone L Ring3
+      position: {x: -0.01876789, y: 0, z: 0}
+      rotation: {x: -0.0000000018626451, y: -1.7462298e-10, z: -3.2526065e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Thumb1
+      parentName: Bone L Hand
+      position: {x: -0.046055946, y: 0.0076703643, z: -0.025447406}
+      rotation: {x: 0.5600043, y: -0.34076774, z: 0.17429641, w: 0.7347744}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Thumb2
+      parentName: seria_Bone L Thumb1
+      position: {x: -0.015964203, y: 0, z: 0}
+      rotation: {x: 2.0192232e-11, y: -0.0000000037252357, z: 0.005420311, w: 0.99998534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Thumb3
+      parentName: seria_Bone L Thumb2
+      position: {x: -0.0135577, y: -0.000000019073486, z: -0.00000015258789}
+      rotation: {x: 1.13688385e-10, y: 0.0000000074497133, z: -0.015258997, w: 0.9998836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone L Finger0Nub
+      parentName: seria_Bone L Thumb3
+      position: {x: -0.018200988, y: 0.000000019073486, z: 0}
+      rotation: {x: -1.6479873e-17, y: 0.0000000037252903, z: 0.0000000044237822,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone Neck
+      parentName: Bone Upper Chest
+      position: {x: -0.11886993, y: -0.006706457, z: 0.000000056215065}
+      rotation: {x: 9.5629274e-14, y: 0.00000023498683, z: -0.084722675, w: 0.9964046}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone Head
+      parentName: Bone Neck
+      position: {x: -0.05901123, y: -0.009162283, z: -0.000000005056645}
+      rotation: {x: 6.8484525e-14, y: 0.00000025828356, z: -0.09312145, w: 0.99565476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 HeadNub
+      parentName: Bone Head
+      position: {x: -0.1908461, y: -0.000000038146972, z: -7.2759575e-14}
+      rotation: {x: 7.1054274e-15, y: 2.842171e-14, z: -2.019484e-28, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_hair_aho
+      parentName: Bone Head
+      position: {x: -0.21815506, y: -0.01513256, z: -7.2759575e-14}
+      rotation: {x: -0.68984747, y: -0.14508955, z: 0.16603144, w: 0.68956006}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_hair_L
+      parentName: Bone Head
+      position: {x: -0.09704284, y: -0.036136933, z: 0.091799915}
+      rotation: {x: 0.16140091, y: 0.91358525, z: -0.034141522, w: 0.37168026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_hair_R
+      parentName: Bone Head
+      position: {x: -0.097042695, y: -0.036136627, z: -0.091799915}
+      rotation: {x: 0.37168023, y: -0.03414307, z: 0.91358525, w: 0.16140042}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_rocket_L
+      parentName: Bone Head
+      position: {x: -0.10205215, y: 0.01687191, z: 0.08401489}
+      rotation: {x: -0.16520865, y: 0.9847569, z: -0.00900223, w: -0.053656332}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_rocket_R
+      parentName: Bone Head
+      position: {x: -0.102052, y: 0.016872214, z: -0.08400983}
+      rotation: {x: -0.053656995, y: -0.009003738, z: 0.9847568, w: -0.16520858}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Shoulder
+      parentName: Bone Upper Chest
+      position: {x: -0.07346366, y: -0.013612604, z: -0.038699377}
+      rotation: {x: 0.7407591, y: -0.004203706, z: 0.6717373, w: -0.0052283052}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R UpperArm
+      parentName: Bone R Shoulder
+      position: {x: -0.071249105, y: -0.000000009536743, z: 0}
+      rotation: {x: -0.07487617, y: 0.05256237, z: -0.014916636, w: 0.9956949}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Lowerarm
+      parentName: Bone R UpperArm
+      position: {x: -0.2017667, y: 0, z: 0}
+      rotation: {x: 4.1947792e-11, y: -0.000000001396354, z: 0.030027395, w: 0.9995491}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Hand
+      parentName: Bone R Lowerarm
+      position: {x: -0.18146878, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.7312822, y: -0.016878596, z: -0.0050446107, w: 0.6818475}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Index1
+      parentName: Bone R Hand
+      position: {x: -0.0886882, y: -0.0040787505, z: 0.015999572}
+      rotation: {x: 0.0026897492, y: 0.02382515, z: -0.022264604, w: 0.9994646}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Index2
+      parentName: seria_Bone R Index1
+      position: {x: -0.020991402, y: 0, z: -0.0000000023841857}
+      rotation: {x: 0.0000000018654354, y: -3.9448228e-10, z: 0.0069586462, w: 0.9999758}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Index3
+      parentName: seria_Bone R Index2
+      position: {x: -0.020125885, y: -0.000000076293944, z: 0.0000000047683715}
+      rotation: {x: 0.0000000018837087, y: -0.0000000014871001, z: 0.014039216, w: 0.9999015}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Finger1Nub
+      parentName: seria_Bone R Index3
+      position: {x: -0.018778762, y: 0.000000076293944, z: 0.0000000023841857}
+      rotation: {x: 0.0000000022700988, y: -0.0000000018626451, z: 1, w: 0.000000001862645}
+      scale: {x: -1, y: -1, z: -1}
+    - name: seria_Bone R Little1
+      parentName: Bone R Hand
+      position: {x: -0.0805867, y: -0.00703331, z: -0.028571036}
+      rotation: {x: 0.0005981027, y: -0.008671334, z: -0.023034528, w: 0.99969685}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Little2
+      parentName: seria_Bone R Little1
+      position: {x: -0.021482963, y: -0.000000076293944, z: 0}
+      rotation: {x: -1.7271744e-13, y: -2.6193442e-10, z: -0.00065939187, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Little3
+      parentName: seria_Bone R Little2
+      position: {x: -0.015973397, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0.000000001859432, y: -4.2187417e-10, z: -0.0077485265, w: 0.99997}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Finger4Nub
+      parentName: seria_Bone R Little3
+      position: {x: -0.017994309, y: 0, z: 0}
+      rotation: {x: 4.0745357e-10, y: 0.0000000037252899, z: 1, w: 9.3132196e-10}
+      scale: {x: -1, y: -1, z: -1}
+    - name: seria_Bone R Middle1
+      parentName: Bone R Hand
+      position: {x: -0.09079674, y: -0.00788208, z: 0.00045399426}
+      rotation: {x: 0.00039795035, y: 0.000010910443, z: -0.027158769, w: 0.9996311}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Middle2
+      parentName: seria_Bone R Middle1
+      position: {x: -0.024490012, y: 0, z: -0.0000000047683715}
+      rotation: {x: 0.0000000018583157, y: 2.7804253e-10, z: 0.016478475, w: 0.9998642}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Middle3
+      parentName: seria_Bone R Middle2
+      position: {x: -0.019691085, y: -0.000000076293944, z: 0.0000000047683715}
+      rotation: {x: -0.0000000018574344, y: -2.7128283e-10, z: 0.020670548, w: 0.9997864}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Finger2Nub
+      parentName: seria_Bone R Middle3
+      position: {x: -0.022343367, y: 0, z: 0}
+      rotation: {x: -1.7462298e-10, y: -0.0000000018626451, z: 1, w: 6.090708e-17}
+      scale: {x: -1, y: -1, z: -1}
+    - name: seria_Bone R Ring1
+      parentName: Bone R Hand
+      position: {x: -0.08775467, y: -0.008196869, z: -0.014226422}
+      rotation: {x: 0.00039809934, y: 0.000011912544, z: -0.030073497, w: 0.99954766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Ring2
+      parentName: seria_Bone R Ring1
+      position: {x: -0.02308815, y: -0.00000015258789, z: 0}
+      rotation: {x: 0.0000000018743262, y: 7.876691e-10, z: -0.014576862, w: 0.9998938}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Ring3
+      parentName: seria_Bone R Ring2
+      position: {x: -0.020991439, y: 0, z: 0.0000000023841857}
+      rotation: {x: -0.0000000018582379, y: -3.7198364e-10, z: 0.0122211985, w: 0.9999253}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Finger3Nub
+      parentName: seria_Bone R Ring3
+      position: {x: -0.018767815, y: 0, z: 0}
+      rotation: {x: -3.4924597e-10, y: 0.0000000018626449, z: 1, w: -0.000000001862645}
+      scale: {x: -1, y: -1, z: -1}
+    - name: seria_Bone R Thumb1
+      parentName: Bone R Hand
+      position: {x: -0.046055906, y: 0.0076703643, z: 0.025447408}
+      rotation: {x: -0.60941863, y: 0.34203234, z: 0.20286544, w: 0.685907}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Thumb2
+      parentName: seria_Bone R Thumb1
+      position: {x: -0.015964163, y: 0, z: -0.00000015258789}
+      rotation: {x: 0.0000000018020411, y: 0.000000011185803, z: 0.0054203337, w: 0.99998534}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Thumb3
+      parentName: seria_Bone R Thumb2
+      position: {x: -0.013557739, y: 0, z: 0}
+      rotation: {x: -0.000000002032961, y: -0.000000011146147, z: -0.015259002, w: 0.9998836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_Bone R Finger0Nub
+      parentName: seria_Bone R Thumb3
+      position: {x: -0.018200988, y: 0.000000019073486, z: 0}
+      rotation: {x: -0.000000007450581, y: 1.8214596e-17, z: 1, w: 0.0000000024447218}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Bone L Upper Leg
+      parentName: seria_Bone Spine
+      position: {x: 0.056300048, y: -0.008395391, z: 0.07548956}
+      rotation: {x: 0.021976883, y: 0.999754, z: 0.0004616996, w: -0.0029457326}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Lower Leg
+      parentName: Bone L Upper Leg
+      position: {x: -0.3673171, y: 0, z: 0}
+      rotation: {x: -2.3747757e-11, y: -4.6596516e-10, z: 0.01149795, w: 0.9999339}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Foot
+      parentName: Bone L Lower Leg
+      position: {x: -0.35880736, y: 0, z: 0.0000000047683715}
+      rotation: {x: -0.0031848166, y: -0.018547293, z: -0.010427341, w: 0.99976856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone L Toe
+      parentName: Bone L Foot
+      position: {x: -0.12812439, y: 0.10083631, z: -0.0013824892}
+      rotation: {x: -0.018762344, y: 0.018762344, z: -0.70685786, w: 0.70685786}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 L Toe0Nub
+      parentName: Bone L Toe
+      position: {x: -0.075154826, y: -0.0000000023841857, z: -0.0000000047683715}
+      rotation: {x: 1.7347234e-18, y: -9.313226e-10, z: 1, w: -0.000000001862645}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Bone R Upper Leg
+      parentName: seria_Bone Spine
+      position: {x: 0.056300048, y: -0.0083949715, z: -0.07548957}
+      rotation: {x: 0.02197689, y: 0.999754, z: -0.00045892864, w: 0.0029455842}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Lower Leg
+      parentName: Bone R Upper Leg
+      position: {x: -0.36731714, y: 0, z: 0}
+      rotation: {x: 1.8393604e-11, y: 9.315956e-10, z: 0.011497951, w: 0.9999339}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Foot
+      parentName: Bone R Lower Leg
+      position: {x: -0.35880736, y: 0, z: 0}
+      rotation: {x: 0.0031848112, y: 0.018547205, z: -0.01042734, w: 0.99976856}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone R Toe
+      parentName: Bone R Foot
+      position: {x: -0.12812436, y: 0.10083629, z: 0.0013824892}
+      rotation: {x: 0.018762343, y: -0.018762344, z: -0.70685786, w: 0.7068578}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bip01 R Toe0Nub
+      parentName: Bone R Toe
+      position: {x: -0.075154826, y: 0, z: -0.0000000047683715}
+      rotation: {x: 1.0842022e-19, y: -5.820766e-11, z: 0.0000000018626451, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: seria_skin
+      parentName: Seria1_0(vrm)(Clone)
+      position: {x: 4.5162735e-11, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
